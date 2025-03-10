@@ -1,0 +1,6 @@
+my_str = "Aswin loves to code"
+
+for char in my_str:
+    print(char)
+
+#for char in string , print the char (shorthand)
