@@ -4,5 +4,7 @@ def greet(name,mark="!"):
 
 greet("luke","$")
 greet("Atul")
+greet("Sayanth")
+greet("Reuel")
 
 #in default parameters,the defaults should come at the end n not on the start
