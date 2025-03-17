@@ -1,0 +1,7 @@
+strings are immutable
+
+msg = "Aswin"
+
+msg[0] = "S"
+
+->error will be thrown

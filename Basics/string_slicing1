@@ -1,0 +1,4 @@
+my_str = "Sayanth"
+
+start,end = 0,5
+print(my_str[start:end])
